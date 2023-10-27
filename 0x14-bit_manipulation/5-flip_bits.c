@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * flip_bits - returns the number of bits you would need to flip 
+ * flip_bits - returns the number of bits you would need to flip
  * @n: the first number
  * @m: the second number
  *
@@ -24,4 +24,3 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m)
 
 	return (countbit);
 }
-	
