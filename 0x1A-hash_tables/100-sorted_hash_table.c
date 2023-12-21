@@ -186,7 +186,7 @@ void shash_table_print_rev(const shash_table_t *ht)
 	printf("}\n");
 }
 /**
- * shash_table_delete - free hash table and all nodes
+ * shash_table_delete -  function that deletes a hash table
  * @ht: pointer to hash table
  *
  */
